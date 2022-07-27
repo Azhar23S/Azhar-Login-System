@@ -6,7 +6,7 @@ This is very basic login system written with Python.
 
 This contains "Registeration" which ask Email and password from users and saves it.
 The user can "Login" with registered email and password (It'll show error if it is doesn't exists).
-The user can also Retrieve the old password or can Generate new password which will replace new password.
+The user can also Retrieve the old password or can Generate new password which will replace old password.
 
 # Email Registeration Conditions
 1. Email cannot start with digits or special characters

@@ -10,7 +10,7 @@ The user can also Retrieve the old password or can Generate new password which w
 
 # Email Registeration Conditions
 1. Email cannot start with digits or special characters.
-2. The domain should contain not more than 3 letters (.com, .org, .in, etc)
+2. The domain should contain not more than 3 characters (.com, .org, .in, etc)
 3. The Password must be 5 to 16 characters long.
 4. The Passwrod should contain atleast 
 

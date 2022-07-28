@@ -9,8 +9,8 @@ The user can "Login" with registered email and password (It'll show error if it 
 The user can also Retrieve the old password or can Generate new password which will replace old password.
 
 # Email Registeration Conditions
-1. Email cannot start with digits or special characters
-2. The domain should contain less than 3 letters (.com, .org, .in, etc)
+1. Email cannot start with digits or special characters.
+2. The domain should contain not more than 3 letters (.com, .org, .in, etc)
 3. The Password must be 5 to 16 characters long.
 4. The Passwrod should contain atleast 
 
@@ -20,6 +20,6 @@ The user can also Retrieve the old password or can Generate new password which w
     
     c) One digit,
     
-    d) One special character,
+    d) One special character
     
  5. If the conditions are not satisfied, it will show error.

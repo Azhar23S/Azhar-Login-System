@@ -1,7 +1,7 @@
 # Azhar's Login System
 
 Hi, This is Azhar. 
-This is my first project "Azhar's Login System" submitted to Guvi as my first assignment
+This is my first project "Azhar's Login System".
 This is very basic login system written with Python.
 
 This contains "Registeration" which ask Email and password from users and saves it.

@@ -1,7 +1,7 @@
-# Azhar's Login System <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" width="27" height="27"/>
+# Register & Login System <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" width="27" height="27"/>
 
 Hi, This is Azhar. 
-This is my first project "Azhar's Login System".
+This is my first project "Register & Login System".
 This is very basic login system written with Python.
 
 This contains "Registeration" which ask Email and password from users and saves it.

@@ -1,4 +1,4 @@
-# Register & Login System <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" width="27" height="27"/>
+# <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" width="27" height="27"/> Register & Login System 💻 </p>
 
 Hi, This is Azhar. 
 This is my first project "Register & Login System".
@@ -12,7 +12,7 @@ The user can also Retrieve the old password or can Generate new password which w
 
     ✓ Python
 
-# Email Registeration Conditions <img src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="Python" width="37" height="27"/>
+# Objectives
 1. Email cannot start with digits or special characters.
 2. The domain should contain not more than 3 characters (.com, .org, .in, etc)
 3. The Password must be 5 to 16 characters long.
